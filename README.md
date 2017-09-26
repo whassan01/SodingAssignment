@@ -1,7 +1,7 @@
 # SodingAssignment
 
 Please go through the assignment.
-As per you given instructions, assignment is web application developed in ASP.NET MVC 5 using Visual Studio 2015.
+As per you given instructions, assignment is a web based application developed in ASP.NET MVC 5 (Scaffolding) using Visual Studio 2015.
 
 Required functionality is in below files:
 ---------------------------------------
